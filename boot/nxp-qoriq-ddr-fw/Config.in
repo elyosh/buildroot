@@ -1,0 +1,4 @@
+config BR2_TARGET_NXP_QORIQ_DDR_FW
+        bool "nxp-qoriq-ddr-fw"
+        help
+          NXP QorIQ DDR PHY firmware.
